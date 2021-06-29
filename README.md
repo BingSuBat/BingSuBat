@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=BingSuBat&desc=web%20developer%20who%20wants%20to%20do%20a%20lot%20of%20things.&type=slice&color=timeGradient&section=header&fontColor=black&fontSize=50&fontAlign=80&fontAlignY=5&rotate=8&descSize=20&descAlign=75&descAlignY=41)
+![header](https://capsule-render.vercel.app/api?text=BingSuBat&desc=web%20developer%20who%20wants%20to%20do%20a%20lot%20of%20things.&type=slice&height=200&color=timeGradient&section=header&fontColor=black&fontSize=50&fontAlign=77&fontAlignY=5&rotate=13&descSize=20&descAlign=75&descAlignY=41)
 
 ### Welcome to this place 👋
 
