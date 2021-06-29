@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to this place 👋
 
 <!--
 **BingSuBat/BingSubat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
