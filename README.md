@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=𝑩𝒊𝒏𝒈𝑺𝒖𝑩𝒂𝒕&desc=𝒘𝒆𝒃%20𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓%20𝒘𝒉𝒐%20𝒘𝒂𝒏𝒕𝒔%20𝒕𝒐%20𝒅𝒐%20𝒂%20𝒍𝒐𝒕%20𝒐𝒇%20𝒕𝒉𝒊𝒏𝒈𝒔&type=slice&animation=twinkling&height=200&color=timeGradient&section=header&fontColor=black&fontSize=50&fontAlign=77&fontAlignY=5&rotate=13&descSize=20&descAlign=70&descAlignY=41)
 
 ### Welcome to this place 👋
-my name is SooBin, Park and I'm also known as BingSuBat
+my name is SooBin Park and I'm also known as BingSuBat
 
 
 
